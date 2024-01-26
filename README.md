@@ -37,22 +37,19 @@ O nosso projeto é a recriação da página inicial do Spotify por meio do HTML 
 Tecnolgias:
 VSCode;
 HTML, CSS e JavaScript;
-Abordamos o código do menu lateral e aprofundamos em CSS, explorando posicionamento, layouts e a técnica do Flexbox
-
-Nesta aula, você vai:
+Abordamos o código do menu lateral e aprofundamos em CSS, explorando posicionamento, layouts e a técnica do Flexbox.
 Criamos todo menu lateral da página;
 Usamos fundamentos do CSS Flexbox;
 Posicionamentos no CSS.
-Usamos o ChatGPT.
 
-Em seguida nos concentramos na estrutura do código, fomos mais a fundo no CSS, mexendo com as variáveis; entendendo conceitos de responsividade e, também, criando o menu superior.
+Em seguida nos concentramos na estrutura do código, fomos mais a fundo no CSS, mexendo com as variáveis;
+Entendendo conceitos de responsividade e, também, criando o menu superior.
 
 Na etapa seguinte estruturamos melhor o projeto;
 Refatoramos o código;
 Fizemos o layout flexbox;
 Usamos conceitos de responsividade;
-Criaamos o menu superior.
-Mais uma vez usamos o chat GPT.
+Criamos o menu superior.
 
 Nesse momento utilizamos o CSS Grid no projeto, para os cards da página inicial, aprendendo as medias queries, além de introduzir o JavaScript com o conceito DOM e o método promises.
 
@@ -83,14 +80,19 @@ Desenvolvedora Front-end no Itaú
 
 - [Assistir aulas](https://www.alura.com.br/apostila-html-css-javascript/)
 
+
+
 ## 🔖 Layout
 
 Inspirado no site Oficial Spotify.
+
+
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
----
 
-=====================================#ImersãoFrontEnd e #Alura====================================
+
+---
+============#ImersãoFrontEnd e #Alura================
